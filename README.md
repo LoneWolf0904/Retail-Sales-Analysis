@@ -9,7 +9,7 @@ This project analyzes retail sales data to uncover purchasing trends, demographi
 * **Techniques Used:** CTEs, Window Functions, Case Statements, Mean Imputation, Data Modeling.
 
 ## 📊 The Executive Dashboard
-🔗 **[Click here to interact with the final dashboard on Tableau Public](YOUR-LINK-HERE)**
+🔗 **[Click here to interact with the final dashboard on Tableau Public](https://public.tableau.com/views/RetailSalesExecutiveDashboard/RetailExecutiveSummary?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ## 💡 Key Business Insights
 * **Top-Performing Category:** Electronics drove the highest total revenue, generating £313,810, closely followed by Clothing (£311,070). This indicates a balanced reliance on both high-ticket items and apparel.
