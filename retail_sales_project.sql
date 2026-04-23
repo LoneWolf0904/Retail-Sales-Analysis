@@ -45,7 +45,7 @@ where age is null;
 
 -- Q1. Write a SQL query to retrieve all columns for sales made on '2022-11-05'
 select * from retail_sales
-where sales_date = '2022-11-05'
+where sales_date = '2022-11-05';
 
 -- Q2. Write a SQL query to retrieve all transactions where the category is 'Clothing' and the quantity sold is more than 4 in the month of Nov-2022
 select * from retail_sales
